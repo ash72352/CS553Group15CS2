@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+ps4_data/__pycache__/
+ps4_eval/__pycache__/
